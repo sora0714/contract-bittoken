@@ -9,4 +9,3 @@ import "../evm-base-contracts/contracts/token/WrappedToken.sol";
 
 
 contract WBTC is WrappedToken, DetailedERC20("Wrapped BTC", "WBTC", 8) {}
-
